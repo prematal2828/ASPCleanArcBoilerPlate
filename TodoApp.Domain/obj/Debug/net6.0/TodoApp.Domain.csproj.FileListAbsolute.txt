@@ -1,0 +1,12 @@
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\bin\Debug\net6.0\TodoApp.Domain.deps.json
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\bin\Debug\net6.0\TodoApp.Domain.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\bin\Debug\net6.0\TodoApp.Domain.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.csproj.AssemblyReference.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.AssemblyInfoInputs.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.AssemblyInfo.cs
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\refint\TodoApp.Domain.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\TodoApp.Domain.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Domain\obj\Debug\net6.0\ref\TodoApp.Domain.dll

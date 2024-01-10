@@ -1,0 +1,17 @@
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Application.deps.json
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Application.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Application.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Domain.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Infrastructure.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Domain.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\bin\Debug\net6.0\TodoApp.Infrastructure.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.csproj.AssemblyReference.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.AssemblyInfoInputs.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.AssemblyInfo.cs
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.csproj.CopyComplete
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\refint\TodoApp.Application.dll
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\TodoApp.Application.pdb
+D:\Documents\TaMaL\Visual Studio\TodoApp\TodoApp.Application\obj\Debug\net6.0\ref\TodoApp.Application.dll
