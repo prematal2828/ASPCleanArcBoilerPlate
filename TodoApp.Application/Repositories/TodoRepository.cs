@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TodoApp.Domain;
 
 namespace TodoApp.Application.Repositories
 {
@@ -11,23 +12,23 @@ namespace TodoApp.Application.Repositories
             _context = context;
         }
 
-        public async Task<List<Domain.TodoItem>> GetAllAsync()
+        public async Task<List<TodoItem>> GetAllAsync()
         {
             return await _context.TodoItems.ToListAsync();
         }
 
-        public async Task<Domain.TodoItem> GetByIdAsync(int id)
+        public async Task<TodoItem> GetByIdAsync(int id)
         {
             return await _context.TodoItems.FindAsync(id);
         }
 
-        public async Task AddAsync(Domain.TodoItem todoItem)
+        public async Task AddAsync(TodoItem todoItem)
         {
             _context.TodoItems.Add(todoItem);
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateAsync(Domain.TodoItem todoItem)
+        public async Task UpdateAsync(TodoItem todoItem)
         {
             _context.Entry(todoItem).State = EntityState.Modified;
             await _context.SaveChangesAsync();
